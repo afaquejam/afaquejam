@@ -1,5 +1,4 @@
 <img src="./assets/github-profile-banner.png"/>
----
 
 <center>
 <a href="https://afaque.info" target="_blank"> <img src="./assets/web.png"/></a>
@@ -23,4 +22,4 @@
 ![Afaque's github stats](https://github-readme-stats.vercel.app/api?username=afaquejam&count_private=true&theme=dark&show_icons=true&line_height=20)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afaquejam&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=afaquejam)
