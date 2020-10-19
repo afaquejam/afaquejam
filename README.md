@@ -8,7 +8,6 @@
 <a href="https://medium.com/@randomzed/" target="_blank"> <img src="./assets/medium-icon.png"/></a>
 </center>
 
----
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Platform-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=blue)
