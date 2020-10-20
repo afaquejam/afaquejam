@@ -22,9 +22,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afaquejam&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Respositories ⭐
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=afaquejam&repo=zed-serverless-labs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=afaquejam&repo=zed-serverless-labs&theme=dark&line_height=50)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=afaquejam&repo=PythonAwesomeApp&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=afaquejam&repo=phacility/phabricator&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=afaquejam&repo=phabricator&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=afaquejam&repo=WebRTC-Tutorials&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=afaquejam&repo=programming-challenges&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
