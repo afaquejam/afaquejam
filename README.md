@@ -19,13 +19,13 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
 
 ![Afaque's github stats](https://github-readme-stats.vercel.app/api?username=afaquejam&count_private=true&theme=dark&show_icons=true&line_height=20)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afaquejam&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afaquejam&layout=compact&theme=dark)]
 
 ## Respositories ⭐
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=afaquejam&repo=zed-serverless-labs&theme=dark&line_height=50)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=afaquejam&repo=phabricator&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=afaquejam&repo=PythonAwesomeApp&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=afaquejam&repo=programming-challenges&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=afaquejam&repo=WebRTC-Tutorials&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=afaquejam&repo=zed-serverless-labs&theme=dark&line_height=50)](https://github.com/afaquejam/zed-serverless-labs)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=afaquejam&repo=phabricator&theme=dark)](https://github.com/afaquejam/phabricator)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=afaquejam&repo=PythonAwesomeApp&theme=dark)](https://github.com/afaquejam/PythonAwesomeApp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=afaquejam&repo=programming-challenges&theme=dark)](https://github.com/afaquejam/programming-challenges)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=afaquejam&repo=WebRTC-Tutorials&theme=dark)](https://github.com/afaquejam/WebRTC-Tutorials)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=afaquejam)
